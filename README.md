@@ -14,10 +14,10 @@ A series of insights from their research will be posted on this page, each one p
 
 ![](imgs/egpo-gs.png)
 
-# EPUB format copy
+# EGP Files
 This reporsitory is used to keep a copy of below 2 files:
 
-1. Grammar Spotlight (1-60), EPUB format [download](asset/egpo.xlsx)
-2. English Grammar Profile (1239 items), MS Excel format [download](asset/egpo-gs.epub)
+1. English Grammar Profile (1239 items), MS Excel format [[download](asset/egpo.xlsx)]
+2. Grammar Spotlight (1-60), EPUB format [[download](asset/egpo-gs.epub)]
 
 
